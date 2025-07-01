@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	client "github.com/accelerate-protocal/mpc-server-client"
+	client "github.com/accelerate-protocol/mpc-server-client"
 	"github.com/stretchr/testify/assert"
 )
 
