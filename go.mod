@@ -1,4 +1,4 @@
-module github.com/accelerate-protocal/mpc-server-client
+module github.com/accelerate-protocol/mpc-server-client
 
 go 1.24.4
 
